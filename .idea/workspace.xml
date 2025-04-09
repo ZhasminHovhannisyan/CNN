@@ -1,18 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="de150bee-4397-4b42-b11a-7030d8e42e06" name="Changes" comment="" />
+    <list default="true" id="de150bee-4397-4b42-b11a-7030d8e42e06" name="Changes" comment="add README.md">
+      <change beforePath="$PROJECT_DIR$/.idea/CNN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CNN.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ZhasminHovhannisyan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ZhasminHovhannisyan/CNN.git&quot;,
+    &quot;accountId&quot;: &quot;abe4117b-bc4a-4d97-aa8e-2e0b1a96f19c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2u8rECYUvU0KD8NVGaPDhMn0DzN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,12 +58,36 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.lab2.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.new.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Jasmin/Desktop/GitHub/CNN/CIFAR10-ResNet18",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\CIFAR10-ResNet18" />
+      <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\House-Price-Prediction" />
+      <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\House-Price-Prediction\exp-with-search" />
+      <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\House-Price-Prediction\data\XGBoost" />
+      <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\House-Price-Prediction\data\xgboost" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\CIFAR10-ResNet18" />
+      <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\CIFAR-10" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -44,7 +105,104 @@
       <option name="presentableId" value="Default" />
       <updated>1741640929092</updated>
       <workItem from="1741640930389" duration="30000" />
+      <workItem from="1741864338395" duration="2121000" />
+      <workItem from="1742476316282" duration="27477000" />
+      <workItem from="1742707767430" duration="10009000" />
+      <workItem from="1742807008014" duration="43000" />
+      <workItem from="1742836948693" duration="3339000" />
+      <workItem from="1742903451902" duration="9857000" />
+      <workItem from="1743077283168" duration="1494000" />
+      <workItem from="1743361646427" duration="1356000" />
+      <workItem from="1743495575777" duration="21335000" />
+      <workItem from="1743661918162" duration="536000" />
+      <workItem from="1743853143634" duration="2427000" />
+      <workItem from="1743958459739" duration="14000" />
+      <workItem from="1744056290303" duration="19739000" />
+      <workItem from="1744196595772" duration="4531000" />
+      <workItem from="1744225658735" duration="4630000" />
     </task>
+    <task id="LOCAL-00001" summary="add README.md">
+      <option name="closed" value="true" />
+      <created>1744225948447</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744225948447</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update README.md">
+      <option name="closed" value="true" />
+      <created>1744227668347</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744227668347</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add project files">
+      <option name="closed" value="true" />
+      <created>1744227775061</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744227775061</updated>
+    </task>
+    <task id="LOCAL-00004" summary="create requirements.txt">
+      <option name="closed" value="true" />
+      <created>1744227809715</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744227809715</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add project files">
+      <option name="closed" value="true" />
+      <created>1744228995496</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744228995496</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add README.md">
+      <option name="closed" value="true" />
+      <created>1744229935914</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744229935914</updated>
+    </task>
+    <task id="LOCAL-00007" summary="rename">
+      <option name="closed" value="true" />
+      <created>1744230337902</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1744230337902</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add README.md">
+      <option name="closed" value="true" />
+      <created>1744230392746</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1744230392746</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update README.md" />
+    <MESSAGE value="create requirements.txt" />
+    <MESSAGE value="add project files" />
+    <MESSAGE value="execution results: checkpoints with accuracies and best model.pth" />
+    <MESSAGE value="rename" />
+    <MESSAGE value="add README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="add README.md" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CNN$new.coverage" NAME="new Coverage Results" MODIFIED="1742645359360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/House-Price-Prediction" />
+    <SUITE FILE_PATH="coverage/CNN$main.coverage" NAME="main Coverage Results" MODIFIED="1742717893092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/House-Price-Prediction" />
+    <SUITE FILE_PATH="coverage/CNN$lab2.coverage" NAME="lab2 Coverage Results" MODIFIED="1742549954558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../BigData/BigData/lab2" />
   </component>
 </project>
