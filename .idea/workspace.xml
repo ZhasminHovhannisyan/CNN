@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de150bee-4397-4b42-b11a-7030d8e42e06" name="Changes" comment="add README.md">
-      <change beforePath="$PROJECT_DIR$/.idea/CNN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CNN.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="de150bee-4397-4b42-b11a-7030d8e42e06" name="Changes" comment="iml, xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +116,7 @@
       <workItem from="1743958459739" duration="14000" />
       <workItem from="1744056290303" duration="19739000" />
       <workItem from="1744196595772" duration="4531000" />
-      <workItem from="1744225658735" duration="4630000" />
+      <workItem from="1744225658735" duration="5288000" />
     </task>
     <task id="LOCAL-00001" summary="add README.md">
       <option name="closed" value="true" />
@@ -185,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744230392746</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="iml, xml">
+      <option name="closed" value="true" />
+      <created>1744233892563</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1744233892563</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +203,8 @@
     <MESSAGE value="execution results: checkpoints with accuracies and best model.pth" />
     <MESSAGE value="rename" />
     <MESSAGE value="add README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="add README.md" />
+    <MESSAGE value="iml, xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="iml, xml" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CNN$new.coverage" NAME="new Coverage Results" MODIFIED="1742645359360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/House-Price-Prediction" />
