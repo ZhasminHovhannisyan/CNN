@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de150bee-4397-4b42-b11a-7030d8e42e06" name="Changes" comment="iml, xml" />
+    <list default="true" id="de150bee-4397-4b42-b11a-7030d8e42e06" name="Changes" comment="iml, xml">
+      <change afterPath="$PROJECT_DIR$/YOLOv11-Obj-Det-PascalVOC/inference/live-cam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv11-Obj-Det-PascalVOC/inference/video.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,56 +45,58 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/ZhasminHovhannisyan/CNN.git&quot;,
-    &quot;accountId&quot;: &quot;abe4117b-bc4a-4d97-aa8e-2e0b1a96f19c&quot;
+    &quot;url&quot;: &quot;git@github.com:ZhasminHovhannisyan/CNN.git&quot;,
+    &quot;accountId&quot;: &quot;e2a9e997-24c5-4d6a-8cd7-0bfc145dee0b&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2u8rECYUvU0KD8NVGaPDhMn0DzN" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.lab2.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.new.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Jasmin/Desktop/GitHub/CNN/CIFAR10-ResNet18",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.lab2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jasmin/Desktop/GitHub/CNN/CNN/YOLOv11-Object-Detection&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\CNN\YOLOv11-Object-Detection" />
       <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\CIFAR10-ResNet18" />
       <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\House-Price-Prediction" />
       <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\House-Price-Prediction\exp-with-search" />
       <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\House-Price-Prediction\data\XGBoost" />
-      <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\House-Price-Prediction\data\xgboost" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\CNN\YOLOv11-Obj-Det-PascalVOC" />
+      <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\CNN\YOLOv11-Obj-Det-PascalVOC\inference" />
+      <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\CNN\YOLOv11-Obj-Det-PascalVOC\inference\models" />
+      <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\CNN\YOLOv11-Object-Detection\inference" />
       <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\CIFAR10-ResNet18" />
-      <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\CIFAR-10" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
-        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
       </set>
     </attachedChunks>
   </component>
@@ -117,6 +124,9 @@
       <workItem from="1744056290303" duration="19739000" />
       <workItem from="1744196595772" duration="4531000" />
       <workItem from="1744225658735" duration="5288000" />
+      <workItem from="1747779297897" duration="22636000" />
+      <workItem from="1747995810542" duration="4057000" />
+      <workItem from="1748019435227" duration="4691000" />
     </task>
     <task id="LOCAL-00001" summary="add README.md">
       <option name="closed" value="true" />
