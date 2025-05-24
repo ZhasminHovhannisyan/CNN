@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de150bee-4397-4b42-b11a-7030d8e42e06" name="Changes" comment="iml, xml">
-      <change afterPath="$PROJECT_DIR$/YOLOv11-Obj-Det-PascalVOC/inference/live-cam.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YOLOv11-Obj-Det-PascalVOC/inference/video.png" afterDir="false" />
+    <list default="true" id="de150bee-4397-4b42-b11a-7030d8e42e06" name="Changes" comment="add Project 3: Object detection">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YOLOv11-Obj-Det-PascalVOC/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/YOLOv11-Obj-Det-PascalVOC/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YOLOv11-Obj-Det-PascalVOC/inference/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/YOLOv11-Obj-Det-PascalVOC/inference/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jasmin/Desktop/GitHub/CNN/CNN/YOLOv11-Object-Detection&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jasmin/Desktop/GitHub/CNN/CNN&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -78,11 +78,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\CNN" />
       <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\CNN\YOLOv11-Object-Detection" />
       <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\CIFAR10-ResNet18" />
       <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\House-Price-Prediction" />
       <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\House-Price-Prediction\exp-with-search" />
-      <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\House-Price-Prediction\data\XGBoost" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Jasmin\Desktop\GitHub\CNN\CNN\YOLOv11-Obj-Det-PascalVOC" />
@@ -126,7 +126,8 @@
       <workItem from="1744225658735" duration="5288000" />
       <workItem from="1747779297897" duration="22636000" />
       <workItem from="1747995810542" duration="4057000" />
-      <workItem from="1748019435227" duration="4691000" />
+      <workItem from="1748019435227" duration="6560000" />
+      <workItem from="1748084520641" duration="2370000" />
     </task>
     <task id="LOCAL-00001" summary="add README.md">
       <option name="closed" value="true" />
@@ -200,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744233892563</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add Project 3: Object detection">
+      <option name="closed" value="true" />
+      <created>1748030817698</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1748030817698</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +223,8 @@
     <MESSAGE value="rename" />
     <MESSAGE value="add README.md" />
     <MESSAGE value="iml, xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="iml, xml" />
+    <MESSAGE value="add Project 3: Object detection" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Project 3: Object detection" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CNN$new.coverage" NAME="new Coverage Results" MODIFIED="1742645359360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/House-Price-Prediction" />

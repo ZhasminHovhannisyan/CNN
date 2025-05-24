@@ -8,8 +8,8 @@ This project is an example of fine-tuning YOLO11m object detection model on the
 Pascal VOC dataset. 
 The workflow includes converting VOC annotations to YOLO format, 
 splitting into train/val/test, 
-setting up a custom dataset with advanced augmentations, 
-training with a frozen backbone and mixed-precision, 
+setting up a custom dataset, 
+training with frozen backbone and mixed-precision, 
 and evaluating results with training curves.
 
 ---
@@ -35,9 +35,9 @@ No need to install the dataset or any dependencies. Everything is packaged in th
 
 In the [inference](inference/) directory you can find [detailed explanation](inference/README.md) on how to inference demos via Streamlit.
 
-## Clone this repo and enter its folder
+## Clone the repo and enter this project's folder
 ```
-git clone https://github.com/you/YOLOv22-Object-Detection.git
-cd YOLOv22-Object-Detection
+git clone https://github.com/ZhasminHovhannisyan/CNN.git
+cd CNN/YOLOv11-Obj-Det-PascalVOC
 ```
 
