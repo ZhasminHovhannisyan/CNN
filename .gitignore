@@ -20,6 +20,7 @@ venv/
 *.iml
 *.ipr
 *.iws
+*.xml
 
 # logs and environment files
 *.log

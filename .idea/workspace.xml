@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de150bee-4397-4b42-b11a-7030d8e42e06" name="Changes" comment="add Project 3: Object detection">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/YOLOv11-Obj-Det-PascalVOC/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/YOLOv11-Obj-Det-PascalVOC/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/YOLOv11-Obj-Det-PascalVOC/inference/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/YOLOv11-Obj-Det-PascalVOC/inference/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="de150bee-4397-4b42-b11a-7030d8e42e06" name="Changes" comment="minor fixes in readme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +122,7 @@
       <workItem from="1747779297897" duration="22636000" />
       <workItem from="1747995810542" duration="4057000" />
       <workItem from="1748019435227" duration="6560000" />
-      <workItem from="1748084520641" duration="2370000" />
+      <workItem from="1748084520641" duration="2924000" />
     </task>
     <task id="LOCAL-00001" summary="add README.md">
       <option name="closed" value="true" />
@@ -209,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748030817698</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="minor fixes in readme">
+      <option name="closed" value="true" />
+      <created>1748117897524</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1748117897524</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,7 +227,8 @@
     <MESSAGE value="add README.md" />
     <MESSAGE value="iml, xml" />
     <MESSAGE value="add Project 3: Object detection" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Project 3: Object detection" />
+    <MESSAGE value="minor fixes in readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor fixes in readme" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CNN$new.coverage" NAME="new Coverage Results" MODIFIED="1742645359360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/House-Price-Prediction" />
