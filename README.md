@@ -25,6 +25,10 @@ Tracks accuracy, loss, confusion matrix, and per-class performance with automate
 and evaluation via training curves and test-set mAP. Includes a Streamlit demo for real-time webcam inference.
 - IPython Notebook: [YOLO-obj-det-PascalVOC.ipynb](YOLOv11-Obj-Det-PascalVOC/YOLOv11-obj-det-PascalVOC.ipynb)
 
+### [Project 4: Single-Image 3D Reconstruction on Pix3D](Pix3D_reconstruction/)
+
+- Description: A deep learning pipeline that reconstructs 3D point clouds from single RGB images using the Pix3D dataset. Utilizes a pretrained ResNet-18 encoder and a fully connected regression head to predict object geometry, optimizing Chamfer Distance for efficient, voxel-free surface representation.
+- IPython Notebook: [3D_reconstruction_Pix3D.ipynb](Pix3D_reconstruction/3d_reconstruction_Pix3D.ipynb)
 
 ## Clone the repository
 ```
